@@ -1,0 +1,1 @@
+dynamic-QR-code-generator
